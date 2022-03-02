@@ -1,15 +1,15 @@
 ---
-date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+date: '1'
+title: 'Detecting Hate Induced Memes'
+cover: './hateInducedmeme.png'
+github: 'https://github.com/kaushalrai7797/Detecting-Hate-Inducing-Memes-in-Code-Switched-Language'
+external: 'https://github.com/kaushalrai7797/Detecting-Hate-Inducing-Memes-in-Code-Switched-Language/blob/master/Hate_me_not_paper.pdf'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Python
+  - Machine Learning
+  - LSTM
+  - CNN
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+- Introduced a novel triply annotated Indian political Memes (IPM) dataset, which comprises memes from various Indian political events that have taken place post-independence.
+- Proposed and implemented a binary-channeled CNN and LSTM based model wherein the images are individually processed using the CNN model and the text extracted from the images using the LSTM model. This model gives state-of-the-art results in the domain of offensive image (Memes) classification in code-switched languages.

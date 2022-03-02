@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Pytorch', 'Hadoop', 'Kubernetes', 'AWS', 'Node.js', 'Docker'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,30 +136,34 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
-
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              Hello! I am Kaushal, a MS in CS student the{' '}
+              <a href="https://www.cs.wisc.edu/" target="_blank" rel="noreferrer">
+                University of Wisconsin-Madison
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              focusing on Machine Learning. My course work includes subjects like Advanced Natural
+              Language Processing, Deep Learning for Visual recognition, Machine Learning and Matrix
+              Method in Machine Learning.
+            </p>
+            <p>
+              I completed my Bachelors in Computer Engineering from{' '}
+              <a href="http://www.nsit.ac.in/">Netaji Subhas Institute of Technology, New Delhi</a>{' '}
+              in 2019 where I was awarded merit scholarship for academic excellence during my
+              undergraduate studies. During my undergraduate days I got a good understanding of
+              subjects like Operating Systems, Database Management Systems, Compilers, Computer
+              Networks, Computer Graphics to name a few.
+            </p>
+
+            <p>
+              Before pursuing my Masters I was working as an Analyst for{' '}
+              <a href="https://www.goldmansachs.com/">Goldman Sachs </a> under their compliance
+              division. Prior to that I have also worked as a full-time Software Engineer at{' '}
+              <a href="https://research.samsung.com/"> Samsung Research </a> and as a summer intern
+              at <a href="https://www.amazon.com/"> Amazon </a>.
+            </p>
+            <p>
+              In the summer of 2022, I will be working as a Software Engineer Intern at{' '}
+              <a href="https://about.facebook.com/meta/">Meta (Facebook) </a> at their Menlo Park
+              Campus.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
