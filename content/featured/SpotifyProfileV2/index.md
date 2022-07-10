@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '7'
 title: 'Developing GAN for Image-to-Image Translation'
 cover: './gan.png'
 github: 'https://github.com/ansh1204/Image_to_Image_Translation_GAN'

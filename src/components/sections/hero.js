@@ -65,11 +65,11 @@ const Hero = () => {
     <>
       <p>
         I have a demonstrated history of working in the computer software industry. I am currently
-        pursuing my Masters of Sciences in Computer Science focusing on Machine Learning at the{' '}
+        pursuing my Masters of Sciences in Computer Science at the{' '}
         <a href="https://www.cs.wisc.edu/" target="_blank" rel="noreferrer">
           University of Wisconsin-Madison
         </a>
-        .
+        . I am currently exploring Full-Time SDE Roles.  My anticipated date of graduation is December 2022.
       </p>
     </>
   );

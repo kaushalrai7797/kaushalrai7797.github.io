@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Pytorch', 'Hadoop', 'Kubernetes', 'AWS', 'Node.js', 'Docker'];
+  const skills = ['Pytorch', 'Hadoop', 'Thrift', 'Kubernetes', 'AWS', 'Node.js', 'Docker', 'Folly'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -161,7 +161,7 @@ const About = () => {
               at <a href="https://www.amazon.com/"> Amazon </a>.
             </p>
             <p>
-              In the summer of 2022, I will be working as a Software Engineer Intern at{' '}
+              During the summer of 2022, I worked as a Software Engineer Intern at{' '}
               <a href="https://about.facebook.com/meta/">Meta (Facebook) </a> at their Menlo Park
               Campus.
             </p>

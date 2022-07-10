@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '4'
 title: 'Detecting Hate Induced Memes'
 cover: './hateInducedmeme.png'
 github: 'https://github.com/kaushalrai7797/Detecting-Hate-Inducing-Memes-in-Code-Switched-Language'
