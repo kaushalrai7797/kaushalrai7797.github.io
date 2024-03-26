@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Pytorch', 'Hadoop', 'Thrift', 'Kubernetes', 'AWS', 'Node.js', 'Docker', 'Folly'];
+  const skills = ['MinIO', 'RabbitMQ', 'Pytorch', 'Hadoop', 'Thrift', 'Kubernetes', 'AWS', 'Node.js', 'Docker', 'Folly'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,7 +136,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I am Kaushal, a MS in CS student the{' '}
+              Hello! I am Kaushal, a software engineer at {' '}
+              <a href="https://www.rubrik.com/" target="_blank" rel="noreferrer">
+                Rubrik
+              </a>
+              . I completed my Masters of Science (MS) in Computer Science from the{' '}
               <a href="https://www.cs.wisc.edu/" target="_blank" rel="noreferrer">
                 University of Wisconsin-Madison
               </a>{' '}

@@ -60,9 +60,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I am planning to graduate in December 2022, and therefore currently actively exploring full-time SDE roles
-        (New Grad and Experienced). Please feel  free to reach out to me via email, in case you find my profile
-        suitable and I will get back to you as soon as possible.
+        I am always open to exploring full-time SDE roles. In case you find my profile suitable, please feel free to
+        reach out to me via email or on LinkedIn and I will get back to you as soon as possible.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

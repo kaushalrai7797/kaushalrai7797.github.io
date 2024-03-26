@@ -60,16 +60,21 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Kaushal Rai</h2>;
-  const three = <h3 className="big-heading">I am a Software Developer.</h3>;
+  const three = <h3 className="big-heading">I am a Software Engineer.</h3>;
   const four = (
     <>
       <p>
         I have a demonstrated history of working in the computer software industry. I am currently
+        working at {''}
+        <a href="https://www.rubrik.com/" target="_blank" rel="noreferrer">
+          Rubrik
+        </a> {' '}
+        as a Software Engineer. Prior to this I was
         pursuing my Masters of Sciences in Computer Science at the{' '}
         <a href="https://www.cs.wisc.edu/" target="_blank" rel="noreferrer">
           University of Wisconsin-Madison
         </a>
-        . I am currently exploring Full-Time SDE Roles.  My anticipated date of graduation is December 2022.
+        .
       </p>
     </>
   );
