@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://kaushalrai7797.github.io/sitemap/sitemap-index.xml
+Sitemap: https://kaushalrai7797.github.io/sitemap.xml
 Host: https://kaushalrai7797.github.io
